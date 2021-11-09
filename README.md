@@ -1,5 +1,7 @@
 # MEG THE SWEEPER
+## TEAM
+<li> Annisa Dwi Quintho    G64190006 
+Rafida Nisa Maghfiroh G64190058 
+Fitria Nuryantika     G64190038 </li>
 
-<br> 1. Annisa Dwi Quintho    G64190006 </br> 
-<br> 2. Rafida Nisa Maghfiroh G64190058 </br>
-<br> 3. Fitria Nuryantika     G64190038 </br>
+## STORY 
