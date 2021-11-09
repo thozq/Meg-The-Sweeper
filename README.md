@@ -1,3 +1,1 @@
-# grafkom
-halo ini grafkom
-bismillah
+# MEG THE SWEEPER
