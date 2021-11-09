@@ -15,11 +15,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ## PROGRESS
 
-<h2> WEEK 1 </h2>
+<h4> WEEK 1 </h4>
 
-<h2> WEEK 2 </h2>
+<h4> WEEK 2 </h4>
 
-<h2> WEEK 3 </h2>
+<h4> WEEK 3 </h4>
 
 
 
