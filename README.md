@@ -1,0 +1,2 @@
+# grafkom
+halo ini grafkom
