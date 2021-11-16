@@ -9,7 +9,13 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ## RULES
 <ol>
-  <li> ini </li>
+  <li> 1. Ikan akan mengumpulkan sampah yang dibuang dari atas perahu
+1. Sampah dikumpulkan oleh ikan yang membawa jaring/? 
+2. Permainan memiliki 3 level, level dapat naik apabila mencapai poin yang ditentukan. 
+3. Ketika naik level, maka terdapat pilihan ikan lain yang bisa digunakan. 
+4. Pemain memiliki 3 nyawa. 
+3. Terdapat hambatan berupa bom, apabila ikan terkena bom sebanyak 3x maka permainan selesai (game over)
+4. Terdapat durasi permainan untuk setiap level, pemain akan gagal apabila poin yang dikumpulkan tidak mencukupi dan waktunya habis. </li>
   </ol>
   
 ## GOALS
