@@ -5,7 +5,7 @@
 <p> Fitria Nuryantika     G64190058 as Game Artist</p>
 
 ## STORY
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
+Kurangnya kepedulian masyarakat terhadap lingkungan laut dapat mengakibatkan rusaknya ekosistem yang ada di laut. Dalam game ini, perahu diibaratkan sebagai orang-orang yang suka membuang sampah sembarangan ke laut, dan terdapat seekor ikan yang bertugas untuk mengumpulkan sampah-sampah yang berasal dari perahu tersebut, supaya 'rumahnya' atau ;aut tersebut tidak tercemar oleh sampah. Ikan tersebut juga harus menghindar dari bom yang diibaratkan sebagai nelayan yang menggunakan bahan peledak (bom) untuk menangkap ikan.
 
 ## RULES
 <ol>
