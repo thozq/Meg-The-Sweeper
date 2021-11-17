@@ -9,13 +9,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ## RULES
 <ol>
-  <li> Ikan akan mengumpulkan sampah yang dibuang dari atas perahu </li>
-  <li> Sampah dikumpulkan oleh ikan yang membawa jaring/? </li>
-  <li> Permainan memiliki 3 level, level dapat naik apabila mencapai poin yang ditentukan. </li>
-  <li> Ketika naik level, maka terdapat pilihan ikan lain yang bisa digunakan. </li>
-  <li> Pemain memiliki 3 nyawa. </li>
-  <li> Terdapat hambatan berupa bom, apabila ikan terkena bom sebanyak 3x maka permainan selesai (game over) </li>
-  <li> Terdapat durasi permainan untuk setiap level, pemain akan gagal apabila poin yang dikumpulkan tidak mencukupi dan waktunya habis. </li>
+  <li> Seekor ikan akan mengumpulkan sampah yang berasal dari perahu </li>
+  <li> 1 sampah = 1 poin </li>
+<li> Terdapat 3 level dalam satu kali permainan </li>
+<li> Setiap level terdapat durasi permainan dan poin minimum yang harus dicapai. Apabila waktu yang disediakan telah habis atau poin tidak mencukupi, maka pemain akan gagal. </li>
+<li> Pemain memiliki 3 nyawa </li>
+<li> Terdapat hambatan berupa bom, apabila ikan terkena bom sebanyak 3x maka permainan akan berakhir (game over). </li>
 </ol>
   
 ## GOALS
