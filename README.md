@@ -19,6 +19,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 </ol>
   
 ## GOALS
+Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 
 ## HOW TO PLAY
 
