@@ -21,7 +21,10 @@ Kurangnya kepedulian masyarakat terhadap lingkungan laut dapat mengakibatkan rus
 Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 
 ## HOW TO PLAY
-
+<ul>
+  <li> Gunakan mouse untuk menggerakkan player </li>
+  <li> Tekan keyboard P untuk pause game </li>
+ </ul>
 ## PROGRESS
 
 <h4> WEEK 1 </h4>
@@ -30,6 +33,29 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 
 <h4> WEEK 3 </h4>
 
-## ASSETS
+## TECHNOLOGY STACK
+<ul>
+  <li> Adobe Photoshop </li>
+  <li> Figma </li>
+  <li> Unity </li>
+  <li> Visual Studio </li>
+ </ul>
+ 
+## Informasi Proyek
+<table>
+  <tr>
+    <td> Github </td>
+    <td>  <a href ="https://github.com/thozq/Meg-The-Sweeper">  https://github.com/thozq/Meg-The-Sweeper </a></td>
+  </tr>
+  <tr>
+    <td> Figma </td>
+    <td> <a href ="https://www.figma.com/file/NRfIb3QLwjr7sZ4nVRc2Ss/Untitled?node-id=0%3A1"> https://www.figma.com/file/NRfIb3QLwjr7sZ4nVRc2Ss/Untitled?node-id=0%3A1</a></td>
+  </tr>
+  <tr>
+    <td> Google Docs </td>
+    <td> <a href ="https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit" > https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit </a> </td>
+  </tr>
+  </table>
+    
 
 
