@@ -5,7 +5,7 @@
 <p> Fitria Nuryantika     G64190058 as Game Artist</p>
 
 ## STORY
-Kurangnya kepedulian masyarakat terhadap lingkungan laut dapat mengakibatkan rusaknya ekosistem yang ada di laut. Dalam game ini, perahu diibaratkan sebagai orang-orang yang suka membuang sampah sembarangan ke laut, dan terdapat seekor ikan yang bertugas untuk mengumpulkan sampah-sampah yang berasal dari perahu tersebut, supaya 'rumahnya' atau ;aut tersebut tidak tercemar oleh sampah. Ikan tersebut juga harus menghindar dari bom yang diibaratkan sebagai nelayan yang menggunakan bahan peledak (bom) untuk menangkap ikan.
+Kurangnya kepedulian masyarakat terhadap lingkungan laut dapat mengakibatkan rusaknya ekosistem yang ada di laut. Dalam game ini, perahu diibaratkan sebagai orang-orang yang suka membuang sampah sembarangan ke laut, dan terdapat seekor ikan yang bertugas untuk mengumpulkan sampah-sampah yang berasal dari perahu tersebut, supaya 'rumahnya' atau laut tersebut tidak tercemar oleh sampah. Ikan tersebut juga harus menghindar dari bom yang diibaratkan sebagai nelayan yang menggunakan bahan peledak (bom) untuk menangkap ikan.
 
 ## RULES
 <ol>
@@ -25,6 +25,7 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
   <li> Gunakan mouse untuk menggerakkan player </li>
   <li> Tekan keyboard P untuk pause game </li>
  </ul>
+ 
 ## PROGRESS
 
 <h4> WEEK 1 </h4>
