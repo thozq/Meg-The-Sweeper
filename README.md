@@ -5,7 +5,7 @@
 <p> Fitria Nuryantika     G64190058 as Game Artist</p>
 
 ## STORY
-Kurangnya kepedulian masyarakat terhadap lingkungan laut dapat mengakibatkan rusaknya ekosistem yang ada di laut. Dalam game ini, perahu diibaratkan sebagai orang-orang yang suka membuang sampah sembarangan ke laut, dan terdapat seekor ikan yang bertugas untuk mengumpulkan sampah-sampah yang berasal dari perahu tersebut, supaya 'rumahnya' atau ;aut tersebut tidak tercemar oleh sampah. Ikan tersebut juga harus menghindar dari bom yang diibaratkan sebagai nelayan yang menggunakan bahan peledak (bom) untuk menangkap ikan.
+Kurangnya kepedulian masyarakat terhadap lingkungan laut dapat mengakibatkan rusaknya ekosistem yang ada di laut. Dalam game ini, perahu diibaratkan sebagai orang-orang yang suka membuang sampah sembarangan ke laut, dan terdapat seekor ikan yang bertugas untuk mengumpulkan sampah-sampah yang berasal dari perahu tersebut, supaya 'rumahnya' atau laut tersebut tidak tercemar oleh sampah. Ikan tersebut juga harus menghindar dari bom yang diibaratkan sebagai nelayan yang menggunakan bahan peledak (bom) untuk menangkap ikan.
 
 ## RULES
 <ol>
@@ -21,7 +21,11 @@ Kurangnya kepedulian masyarakat terhadap lingkungan laut dapat mengakibatkan rus
 Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 
 ## HOW TO PLAY
-
+<ul>
+  <li> Gunakan mouse untuk menggerakkan player </li>
+  <li> Tekan keyboard P untuk pause game </li>
+ </ul>
+ 
 ## PROGRESS
 
 <h4> WEEK 1 </h4>
@@ -30,6 +34,29 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 
 <h4> WEEK 3 </h4>
 
-## ASSETS
+## TECHNOLOGY STACK
+<ul>
+  <li> Adobe Photoshop </li>
+  <li> Figma </li>
+  <li> Unity </li>
+  <li> Visual Studio </li>
+ </ul>
+ 
+## Informasi Proyek
+<table>
+  <tr>
+    <td> Github </td>
+    <td>  <a href ="https://github.com/thozq/Meg-The-Sweeper">  https://github.com/thozq/Meg-The-Sweeper </a></td>
+  </tr>
+  <tr>
+    <td> Figma </td>
+    <td> <a href ="https://www.figma.com/file/NRfIb3QLwjr7sZ4nVRc2Ss/Untitled?node-id=0%3A1"> https://www.figma.com/file/NRfIb3QLwjr7sZ4nVRc2Ss/Untitled?node-id=0%3A1</a></td>
+  </tr>
+  <tr>
+    <td> Google Docs </td>
+    <td> <a href ="https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit" > https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit </a> </td>
+  </tr>
+  </table>
+    
 
 
