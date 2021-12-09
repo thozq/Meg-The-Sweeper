@@ -53,5 +53,6 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
   </tr>
   </table>
     
+ ## Tampilan Game
 
 
