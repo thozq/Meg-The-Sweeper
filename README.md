@@ -54,7 +54,7 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
   </table>
     
  ## Tampilan Game
- 
+ 1. Tampilan home page game yang berisi tombol pilihan Play yang akan berlanjut ke permainan dan juga Quit yang akan berlanjut ke keluar dari game
 ![image](https://user-images.githubusercontent.com/79956203/145434484-d3f6aa3a-5945-4a2d-a8c0-15090f34e5f0.png)
 
 
