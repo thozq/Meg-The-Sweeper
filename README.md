@@ -54,5 +54,7 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
   </table>
     
  ## Tampilan Game
+ 
+https://user-images.githubusercontent.com/79956203/145434105-c15a6cd8-d6f7-4e95-a78f-aad44ac6937c.jpg
 
 
