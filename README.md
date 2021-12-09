@@ -26,13 +26,8 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
   <li> Tekan keyboard P untuk pause game </li>
  </ul>
  
-## PROGRESS
-
-<h4> WEEK 1 </h4>
-
-<h4> WEEK 2 </h4>
-
-<h4> WEEK 3 </h4>
+## ASSETS
+<a href ="https://drive.google.com/drive/folders/1QDu9gc2ftE6Aek3SuRDnFQ-jfYepSmlD"> https://drive.google.com/drive/folders/1QDu9gc2ftE6Aek3SuRDnFQ-jfYepSmlD </a></td>
 
 ## TECHNOLOGY STACK
 <ul>
