@@ -69,14 +69,14 @@ public class ScoreController : MonoBehaviour
     {
         if (GameAktif && timeValue <= 0)
         {
-            if (score >= 40)
+            if (score >= 30)
             {
                 Next.SetActive(true);
                 Gameover.SetActive(false);
                 GameAktif = false;
                 Time.timeScale = 0f;
             }
-            else if (score < 40)
+            else if (score < 30)
             {
                 Gameover.SetActive(true);
                 Next.SetActive(false);
@@ -95,7 +95,7 @@ public class ScoreController : MonoBehaviour
     public void Restart()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("level1");
+        SceneManager.LoadScene("Level 1");
     }
 
 }
