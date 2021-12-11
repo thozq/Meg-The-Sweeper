@@ -66,6 +66,7 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 ![image](https://user-images.githubusercontent.com/79956203/145620570-43982fb9-c63e-4383-8179-e74912cfb9af.png)
 6. Jika kita kalah melewati level yang ada
 ![image](https://user-images.githubusercontent.com/79956203/145685032-1f994e9d-0ac1-4c04-af4a-49a6f75475a7.png)
+7. Jika berhasil melewati ketiga level
 
 
 
