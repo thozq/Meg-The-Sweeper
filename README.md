@@ -56,11 +56,17 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
  ## Tampilan Game
  1. Tampilan home page game yang berisi tombol pilihan Play yang akan berlanjut ke permainan dan juga Quit yang akan berlanjut ke keluar dari game
 ![image](https://user-images.githubusercontent.com/79956203/145434484-d3f6aa3a-5945-4a2d-a8c0-15090f34e5f0.png)
-2. ![image](https://user-images.githubusercontent.com/79956203/145620082-8ad802ca-593e-4c15-8be6-d41b3fa67394.png)
-3. ![image](https://user-images.githubusercontent.com/79956203/145620334-9231b2b9-0748-4b4b-b046-91492b32052d.png)
-4. ![image](https://user-images.githubusercontent.com/79956203/145620353-814272c3-9dc6-4f6c-87e6-29c4fee5a9e6.png)
-5. ![image](https://user-images.githubusercontent.com/79956203/145620391-17b76a89-acef-4ff4-8665-12b88757a813.png)
-6. ![image](https://user-images.githubusercontent.com/79956203/145620570-43982fb9-c63e-4383-8179-e74912cfb9af.png)
+2. Level satu pada game 
+![image](https://user-images.githubusercontent.com/79956203/145620082-8ad802ca-593e-4c15-8be6-d41b3fa67394.png)
+3. Level dua pada game
+![image](https://user-images.githubusercontent.com/79956203/145620353-814272c3-9dc6-4f6c-87e6-29c4fee5a9e6.png)
+4. Jika berhasil melewati setiap level
+![image](https://user-images.githubusercontent.com/79956203/145620391-17b76a89-acef-4ff4-8665-12b88757a813.png)
+5. Jika kita mengklik huruf "P" pada keyboard untuk pause game
+![image](https://user-images.githubusercontent.com/79956203/145620570-43982fb9-c63e-4383-8179-e74912cfb9af.png)
+6. Jika kita kalah melewati level yang ada
+![image](https://user-images.githubusercontent.com/79956203/145685032-1f994e9d-0ac1-4c04-af4a-49a6f75475a7.png)
+
 
 
 
