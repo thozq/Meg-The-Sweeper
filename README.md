@@ -45,11 +45,11 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
   </tr>
   <tr>
     <td> Figma </td>
-    <td> <a href ="https://www.figma.com/file/NRfIb3QLwjr7sZ4nVRc2Ss/Untitled?node-id=0%3A1"> https://www.figma.com/file/NRfIb3QLwjr7sZ4nVRc2Ss/Untitled?node-id=0%3A1</a></td>
+    <td> <a href ="https://ipb.link/figma-grafkom"> https://ipb.link/figma-grafkom </a></td>
   </tr>
   <tr>
     <td> Google Docs </td>
-    <td> <a href ="https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit" > https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit </a> </td>
+    <td> <a href ="https://ipb.link/laporan-grafkom" > https://ipb.link/laporan-grafkom </a> </td>
   </tr>
    <tr>
       <td> Video Produk Game </td>
@@ -70,7 +70,9 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
 ![image](https://user-images.githubusercontent.com/79956203/145620570-43982fb9-c63e-4383-8179-e74912cfb9af.png)
 6. Jika kita kalah melewati level yang ada
 ![image](https://user-images.githubusercontent.com/79956203/145685032-1f994e9d-0ac1-4c04-af4a-49a6f75475a7.png)
-7. Jika berhasil melewati ketiga level
+7. Jika berhasil melewati ketiga level akan ada tulisan "Congratulations"
+![image](https://user-images.githubusercontent.com/79956203/145715632-647d105f-abe4-4691-be41-79ec8c68f5e1.png)
+
 
 
 
