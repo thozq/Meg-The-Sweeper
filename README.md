@@ -51,6 +51,10 @@ Menghindari bom dan mengumpulkan sampah sebanyak-banyaknya.
     <td> Google Docs </td>
     <td> <a href ="https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit" > https://docs.google.com/document/d/1p7IZ3wm2dkGUuFFsn96a1SzOyD6_4cqBV3-MCeUGHTk/edit </a> </td>
   </tr>
+   <tr>
+      <td> Video Produk Game </td>
+    <td> <a href ="https://ipb.link/video-grafkom" > https://ipb.link/video-grafkom </a> </td>
+  </tr>
   </table>
     
  ## Tampilan Game
